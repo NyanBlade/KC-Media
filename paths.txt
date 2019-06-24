@@ -31,3 +31,4 @@ D:\RealSteamLibrary\steamapps\common\VRChat\VRChat_Data\StreamingAssets
 F:\Steam_windows\steamapps\common\VRChat\VRChat_Data\StreamingAssets
 F:\SteamLibrary\steamapps\common\VRChat\VRChat_Data\StreamingAssets
 D:\Programs\steamapps\common\VRChat\VRChat_Data\StreamingAssets
+C:\Program Files (x86)\SteamLibrary\steamapps\common\VRChat
