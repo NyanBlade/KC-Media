@@ -35,3 +35,4 @@ C:\Program Files (x86)\SteamLibrary\steamapps\common\VRChat
 C:\Users\Tianna\Desktop\New folder\steamapps\common\VRChat\VRChat_Data\StreamingAssets
 D:\Programme\Oculus Apps\Software\vrchat-vrchat\VRChat_Data\StreamingAssets
 D:\Juegos steam\steamapps\common\VRChat\VRChat_Data\StreamingAssets
+D:\Games\SteamLibrary\steamapps\common\VRChat\VRChat_Data\StreamingAssets
