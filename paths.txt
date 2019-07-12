@@ -48,3 +48,4 @@ E:\Program Files (x86)\New folder\steamapps\common\VRChat\VRChat_Data\StreamingA
 C:\Games\Steam\steamapps\common\VRChat\VRChat_Data\StreamingAssets
 D:\SteamLibrary\SteamLibrary\steamapps\common\VRChat\VRChat_Data\StreamingAssets
 D:\Games\steamapps\common\VRChat\VRChat_Data\StreamingAssets
+H:\SteamLibrary4\steamapps\common\VRChat\VRChat_Data\StreamingAssets
