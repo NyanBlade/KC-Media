@@ -54,3 +54,4 @@ S:\SteamLibrary\steamapps\common\VRChat\VRChat_Data\StreamingAssets
 F:\ark\steamapps\common\VRChat\VRChat_Data\StreamingAssets
 K:\SEXYWHALE\steam\steamapps\common\VRChat\VRChat_Data\StreamingAssets
 F:\Games\GameInstalls\Steam\steamapps\common\VRChat\VRChat_Data\StreamingAssets
+K:\SteamLibrary\steamapps\common\VRChat\VRChat_Data\StreamingAssets
